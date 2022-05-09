@@ -1,0 +1,7 @@
+[2022-03-02 9:17:53.754549] [error] Beim User speichern ist ein Fehler aufgetreten.
+[2022-03-02 9:17:53.759865] [debug] User-Save Error: 
+    error: array(
+        'address' => array(
+            0 => 'Keine gültige E-Mail Adresse',
+        ),
+    )

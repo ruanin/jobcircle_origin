@@ -1,0 +1,16 @@
+{
+    "remotePath": "./",
+    "host": "intranet.psr.brefis.ch",
+    "username": "admin_faton",
+    "password": "y7deEHMJN0",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}

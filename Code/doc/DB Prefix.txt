@@ -1,0 +1,8 @@
+Alle Tabellen die Standard values haben müssen den prefix value_ vorne haben als Tabellenname. (value_profession)
+
+
+Primary key: tableName_id (ohne value_)
+Beispiel: profession_id
+
+Wenn es eine Relationstabelle ist wird der prefix rel_ vorne angehängt. (rel_vac_occupation, das ist eine relationstabelle zwischen vac_info und value_occupation)
+

@@ -1,0 +1,16 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "intranet.psr.brefis.ch",
+  "port": "21",
+  "target": "/public_html",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "admin_faton",
+  "password": "y7deEHMJN0",
+  "watch": []
+}
