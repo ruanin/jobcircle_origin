@@ -1,7 +1,0 @@
-<?php
-
-define('DEFAULT_TEMPLATE_NAME', 'planova');
-define('DEFAULT_MAIL_RECEIVER', 'info@planova.ch');
-define('SMS_SHORT_NAME', 'PLANOVA');
-define('RECAPTCHA_SITE_KEY','6LdEXrQUAAAAABAu1V-DkNEEnaMh8hj9YVQ47kSr');
-define('RECAPTCHA_SECRET_KEY','6LdEXrQUAAAAAHeF4UMeuNP6YT3QyJRudAMDSnaq');

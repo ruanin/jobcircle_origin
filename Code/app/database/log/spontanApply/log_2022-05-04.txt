@@ -1,8 +1,0 @@
-[2022-05-04 8:09:59.525198] [error] Entweder E-Mail Adresse oder Telefonnummer fehlt.
-[2022-05-04 8:10:12.906780] [error] Beim User speichern ist ein Fehler aufgetreten.
-[2022-05-04 8:10:12.906953] [debug] User-Save Error: 
-    error: array(
-        'address' => array(
-            0 => 'Keine gültige E-Mail Adresse',
-        ),
-    )
